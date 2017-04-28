@@ -1,3 +1,5 @@
+# Code Styles
+
 **There are many code styles out there and they are somehow similar or a little bit different to each other.
 But I find that two following guidelines work well for me up to now.**
 * Android: [Square's Java code styles](https://github.com/square/java-code-styles).
