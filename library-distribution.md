@@ -5,4 +5,4 @@
 
 
 Note: 
-For iOS Framework, make sure to set `Build Active Architecture Only` to `No` in `Build Settings` to avoid 'Apple mach o linker error'.
+For iOS Framework, make sure to set `Build Active Architecture Only` to `No` in `Build Settings` to avoid 'Apple mach o linker error' in library-consuming apps.
