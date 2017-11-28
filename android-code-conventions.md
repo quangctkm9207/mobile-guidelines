@@ -48,18 +48,18 @@ In case of working in or contributing to existing projects, developers should sh
   5. Private methods
 ```java
   public class NoteActivity extends AppCompatActivity {
-  	public static final String EXTRA_NOTE_ID = "note_id";
-
-  	private TextView titleText;
-  	private ImageView backgroundImage;
-  	private Button saveButton;
-
+    public static final String EXTRA_NOTE_ID = "note_id";
+    
+    private TextView titleText;
+    private ImageView backgroundImage;
+    private Button saveButton;
+    
     @Override public boolean onCreateOptionsMenu(Menu menu) {}
 
-  	@Override protected void onCreate(Bundle savedInstance) {}
-
+    @Override protected void onCreate(Bundle savedInstance) {}
+    
     @Override protected void onResume() {}
-
+    
     private void showNote() {}
   }
 ```
