@@ -1,6 +1,6 @@
 # Mobile Guidelines
 The collection of good practices for developing Android and iOS apps. 
-* [Code Styles](/code-styles.md)
-* [Git Branching Models](/git-model.md)
+* [Code conventions](/code-conventions.md)
+* [Git branching models](/git-model.md)
 * [Architecture](/architecture.md)
-* [Library Distribution](/library-distribution.md)
+* [Library distribution](/library-distribution.md)
