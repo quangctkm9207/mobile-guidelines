@@ -42,10 +42,7 @@ In case of working in or contributing to existing projects, developers should sh
   1. Constants
   2. Fields
   3. Constructors
-  3. @Override methods
-  4. Public methods
-  5. Protected methods
-  5. Private methods
+  3. Methods: They should be grouped by functionality rather than scope. It will make reading and understanding the code easier.
 ```java
   public class NoteActivity extends AppCompatActivity {
     public static final String EXTRA_NOTE_ID = "note_id";
@@ -53,13 +50,9 @@ In case of working in or contributing to existing projects, developers should sh
     private TextView titleText;
     private ImageView backgroundImage;
     private Button saveButton;
-    
-    @Override public boolean onCreateOptionsMenu(Menu menu) {}
 
     @Override protected void onCreate(Bundle savedInstance) {}
-    
-    @Override protected void onResume() {}
-    
+        
     private void showNote() {}
   }
 ```
