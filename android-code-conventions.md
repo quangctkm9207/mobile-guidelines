@@ -10,8 +10,8 @@
   * [Resource names](#resource-names)
 
 ## Acknowledgments
-It is recommended to apply immediately when developing new projects. 
-In case of working in or contributing to existing projects, developers should show respect to existing code style, only make changes if it is allowed.
+For new projects, it can be applied without much restriction.
+In case of working in or contributing to existing projects, let's follow existing code style to make it consistent and show respect with other developers. We should make changes if there are reasonable reasons which are approved by project's leader and other team members.
 
 ## File names
 
