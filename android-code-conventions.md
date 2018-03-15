@@ -74,3 +74,5 @@ Hungarian notation: **No**.
   - string name in `strings.xml`: message content (`name = "msg_***"`), preference (`name = "pref_***"`).
   - menu item: `@+id/menu_***`
   - color name in `colors.xml`: it should be named as in pallete. i.e: `name = "green"`, `name = "red"`, or `name = "blue"`.
+### Google Kotline guidelines
+For Kotlin, let's check [Google official guidelines](https://android.github.io/kotlin-guides/style.html).
