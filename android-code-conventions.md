@@ -76,3 +76,6 @@ Hungarian notation: **No**.
   - color name in `colors.xml`: it should be named as in pallete. i.e: `name = "green"`, `name = "red"`, or `name = "blue"`.
 ### Google Kotline guidelines
 For Kotlin, let's check [Google official guidelines](https://android.github.io/kotlin-guides/style.html).
+
+### Android Studio
+To install the code style in Android Studio, grasp its here: https://github.com/quangctkm9207/java-code-styles
